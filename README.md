@@ -8,3 +8,7 @@ Maintenant il permet d'assigner n'importe quels processus à un raccourcie clavi
 On peut en assigner jusqu'à 8 en faisant un clique droit sur les lignes à gauche.
 
 Les fenêtres sont restaurées en appuyant sur ALT + {1-8} (touches du haut).
+
+
+## Languages
+WPF and C#
