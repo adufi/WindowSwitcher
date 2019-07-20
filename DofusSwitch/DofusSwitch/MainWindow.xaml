@@ -1,0 +1,39 @@
+﻿<Window x:Class="DofusSwitch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DofusSwitch"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280"
+         Closing="Window_Closing" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" Background="#FFE22828">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            <ScrollViewer Grid.Row="0">
+                <Grid Name="MyGrid">
+                    
+                </Grid>
+            </ScrollViewer>
+
+
+        </Grid>
+        
+        <ScrollViewer Grid.Column="1">
+            <TextBlock Grid.Column="1" Margin="10,10,0,0" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Name="tb_Output"/>
+        </ScrollViewer>
+
+
+
+
+
+    </Grid>
+</Window>

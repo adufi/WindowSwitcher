@@ -1,0 +1,14 @@
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\bin\Debug\WindowSwitcher.exe.config
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\bin\Debug\WindowSwitcher.exe
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\bin\Debug\WindowSwitcher.pdb
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\MainWindow.g.cs
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\App.g.cs
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher_MarkupCompile.cache
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher_MarkupCompile.lref
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\MainWindow.baml
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher.g.resources
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher.Properties.Resources.resources
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher.csproj.GenerateResource.cache
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher.csproj.CoreCompileInputs.cache
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher.exe
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher.pdb

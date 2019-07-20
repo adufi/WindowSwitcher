@@ -1,0 +1,14 @@
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\bin\Debug\DofusSwitch.exe.config
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\bin\Debug\DofusSwitch.exe
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\bin\Debug\DofusSwitch.pdb
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\obj\Debug\DofusSwitch.csprojResolveAssemblyReference.cache
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\obj\Debug\MainWindow.g.cs
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\obj\Debug\App.g.cs
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\obj\Debug\DofusSwitch_MarkupCompile.cache
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\obj\Debug\DofusSwitch_MarkupCompile.lref
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\obj\Debug\MainWindow.baml
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\obj\Debug\DofusSwitch.g.resources
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\obj\Debug\DofusSwitch.Properties.Resources.resources
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\obj\Debug\DofusSwitch.csproj.GenerateResource.Cache
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\obj\Debug\DofusSwitch.exe
+d:\Documents\GitHub\DofusSwitch\DofusSwitch\DofusSwitch\obj\Debug\DofusSwitch.pdb
