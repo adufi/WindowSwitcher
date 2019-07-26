@@ -12,3 +12,4 @@ D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitch
 D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher.csproj.CoreCompileInputs.cache
 D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher.exe
 D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher.pdb
+D:\Travail\Projets\WindowSwitcher\DofusSwitch\DofusSwitch\obj\Debug\WindowSwitcher.csprojAssemblyReference.cache
